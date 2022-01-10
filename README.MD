@@ -1,3 +1,6 @@
+# Description
+ESP8266 chip with working arduino to communicate with Jetson Nano Hub. (used with smarthome_v1 or smarthome_v2)
+
 # How this code SHOULD work.
 
 ## Steps:
